@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\den\documents\visual studio 2015\projects\courserawhitebelttemperature\courserawhitebelttemperature\source.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\den\documents\visual studio 2015\projects\courserawhitebelttemperature\courserawhitebelttemperature\source.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\den\documents\visual studio 2015\projects\courserawhitebelttemperature\courserawhitebelttemperature\source.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+  courseraWhiteBeltTemperature.vcxproj -> c:\users\den\documents\visual studio 2015\Projects\courseraWhiteBeltTemperature\Debug\courseraWhiteBeltTemperature.exe
+  courseraWhiteBeltTemperature.vcxproj -> c:\users\den\documents\visual studio 2015\Projects\courseraWhiteBeltTemperature\Debug\courseraWhiteBeltTemperature.pdb (Partial PDB)
