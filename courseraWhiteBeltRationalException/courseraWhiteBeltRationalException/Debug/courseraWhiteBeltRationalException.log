@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\den\documents\visual studio 2015\projects\courserawhitebeltrationalexception\courserawhitebeltrationalexception\source.cpp(223): warning C4101: ia: неиспользованная локальная переменная
+  courseraWhiteBeltRationalException.vcxproj -> C:\Users\Den\Documents\Visual Studio 2015\Projects\courseraWhiteBeltRationalException\Debug\courseraWhiteBeltRationalException.exe
+  courseraWhiteBeltRationalException.vcxproj -> C:\Users\Den\Documents\Visual Studio 2015\Projects\courseraWhiteBeltRationalException\Debug\courseraWhiteBeltRationalException.pdb (Partial PDB)
