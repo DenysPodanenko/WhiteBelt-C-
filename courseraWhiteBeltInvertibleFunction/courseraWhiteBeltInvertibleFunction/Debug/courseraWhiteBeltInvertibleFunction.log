@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\den\documents\visual studio 2015\projects\courserawhitebeltinvertiblefunction\courserawhitebeltinvertiblefunction\source.cpp(47): warning C4715: FunctionPart::Apply: значение возвращается не при всех путях выполнения
+  courseraWhiteBeltInvertibleFunction.vcxproj -> c:\users\den\documents\visual studio 2015\Projects\courseraWhiteBeltInvertibleFunction\Debug\courseraWhiteBeltInvertibleFunction.exe
+  courseraWhiteBeltInvertibleFunction.vcxproj -> c:\users\den\documents\visual studio 2015\Projects\courseraWhiteBeltInvertibleFunction\Debug\courseraWhiteBeltInvertibleFunction.pdb (Partial PDB)
