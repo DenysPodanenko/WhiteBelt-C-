@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (courseraWhiteBeltMinimalString.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  QuadraticEquation.cpp
+  MinimalString.cpp
+  Создание кода...
+QuadraticEquation.obj : error LNK2005: _main уже определен в MinimalString.obj
+c:\users\den\documents\visual studio 2015\Projects\courseraWhiteBeltMinimalString\Debug\courseraWhiteBelt.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
